@@ -15,8 +15,8 @@
 
 **🛠 Technical Stack**
 
-**Programming:** Java, Python, SQL, PostgreSQL, R, JavaScript 
-**Libraries & Frameworks:** Spring Boot, React.js, Tailwind CSS, Pandas, NumPy, PostGIS
+**Programming:** Java, Python, SQL, R, JavaScript 
+**Libraries & Frameworks:** Spring Boot, Pandas, NumPy, PostGIS
 **Developer Tools:** Git, GitHub, VS Code, PyCharm, Jupyter Notebook, Postman 
 
 **📫 Let's Connect!**
