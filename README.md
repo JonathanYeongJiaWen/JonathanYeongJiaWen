@@ -21,6 +21,6 @@
 
 **📫 Let's Connect!**
 
-* 💼 [LinkedIn]((https://www.linkedin.com/in/jonathan-yeong-731b752a6/))
+* 💼 [LinkedIn](https://www.linkedin.com/in/jonathan-yeong-731b752a6/)
 * ✉️ [Personal Email](mailto:jonathanyeong3@gmail.com)
 * ✉️ [School Email](mailto:jyeong006@e.ntu.edu.com)
