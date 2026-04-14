@@ -10,7 +10,7 @@
 **📈 Projects & Experience**
 
 * ☁️ **Incoming Cloud Computing Intern** at DSO (Summer 2026)
-* 🏠 **Habitat Hero (Group Project):** A full-stack web application matching users to HDB flats. Built with a React and Tailwind CSS frontend and a Java Spring Boot backend using the BCE architectural pattern. Implemented PostgreSQL and the PostGIS extension to execute complex geospatial queries (e.g., distance buffers and location-based scoring) and integrated OneMap and Data.gov.sg APIs.
+* 🏠 **[Habitat Hero](https://github.com/JonathanYeongJiaWen/Habitat-Hero) (Group Project):** A full-stack web application matching users to HDB flats. Built with a React and Tailwind CSS frontend and a Java Spring Boot backend using the BCE architectural pattern. Implemented PostgreSQL and the PostGIS extension to execute complex geospatial queries (e.g., distance buffers and location-based scoring) and integrated OneMap and Data.gov.sg APIs.
 * 💼 **[Internship Management System](https://github.com/hydraraptor81/ntu_sc2002_project?tab=readme-ov-file) (Group Project):** A scalable CLI-based Java application implementing the BCE model, SOLID principles, and Java Streams to connect students, companies, and staff.
 
 **🛠 Technical Stack**
